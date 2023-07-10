@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-- 🌱 I’m currently learning **C languages at 42-school**
+- 🌱 I’m currently learning **C and C++ languages at 42-school**
 
 - ⚡ Fun fact **I have a Sommelier degree**
 
