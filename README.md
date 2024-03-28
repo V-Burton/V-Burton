@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-  - 🌱 I’m currently learning html, js, python and Django at 42-school**
-
+  - 🌱 I’m currently learning html, js, python and Django at 42-school.
+    
+  - In my free time I learn solidity through the awesome [node Guardians](https://nodeguardians.io) site. Looking to participate in hackathons and a internship in this field!
+  
   - ⚡ Fun fact **I have a Sommelier degree**
 
 <h3 align="center">Languages and Tools:</h3>
